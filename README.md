@@ -3,9 +3,10 @@ A tutorial (documentation) that explains a specific regular expression (regex), 
 
 It is good practice to document code so that other developers at any skill level can understand. Devs can now articulate their code for usage in projects or make possible improvements.
 
-## Continue Reading here!
-https://github.com/gabetuason/regex_tutorial/blob/main/gist-regex-email.md
+## Usage
+Gist: https://gist.github.com/gabetuason/4ca076474eb8b1676b716f4cbc455969
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Questions
 
