@@ -16,4 +16,4 @@ This is an open source, feel free to use. This tutorial documentation was build 
 
 ## Questions
 
-For any questions about the application, please contact gabetuason24@gmail.com or view the github https://github.com/gabetuason to find me
+For any questions about this tutorial, please contact gabetuason24@gmail.com or view the github https://github.com/gabetuason to find me
